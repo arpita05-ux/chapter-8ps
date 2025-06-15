@@ -1,5 +1,5 @@
 def inch_to_cms(inch):
-    return inch * 2.54
+    return inch * 2.54         #formula
 
 n = int(input("Enter value in inches: "))
 
